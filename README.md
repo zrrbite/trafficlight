@@ -1,2 +1,2 @@
 # trafficlight
-Theas first Arduino projhect
+Theas first Arduino project
